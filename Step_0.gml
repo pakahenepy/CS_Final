@@ -1,0 +1,1 @@
+move_bounce_solid(spr_player)
