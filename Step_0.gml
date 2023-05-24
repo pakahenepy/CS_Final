@@ -1,1 +1,1 @@
-move_bounce_solid(spr_player)
+move_bounce_solid(obj_player)
